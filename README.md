@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/banner.png" width="100%">
+</p>
 # 👋 Hi, I'm Yaswanth Gurindapalli
 
 ### 💻 Java Full Stack Developer | Spring Boot Enthusiast | Passionate Software Engineer
