@@ -1,4 +1,4 @@
-```markdown
+
 <p align="center">
   <img src="assets/banner.png" width="100%" alt="Yaswanth Gurindapalli Banner">
 </p>
@@ -225,4 +225,4 @@ Java console application supporting secure login, deposits, withdrawals, balance
 <p align="center">
 If you like my work, consider giving a ⭐ to my repositories.
 </p>
-```
+
